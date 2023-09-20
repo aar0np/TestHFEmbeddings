@@ -1,0 +1,9 @@
+target/
+frontend/
+.classpath
+.project
+.settings
+.mvn/
+HELP.md
+mvnw*
+.java-version
