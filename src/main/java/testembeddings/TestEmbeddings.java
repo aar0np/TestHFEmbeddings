@@ -49,6 +49,8 @@ public class TestEmbeddings {
         		dataLine = reader.readLine();
         	}
         	
+        	reader.close();
+        	
         } catch (IOException ex) {
         	ex.printStackTrace();
         }
